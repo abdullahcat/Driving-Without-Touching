@@ -1,5 +1,7 @@
 # Driving Without Touching
 
+With this software you'll be able to drive cars in games with your hand movements.
+
 ## Things You Gotta Do:
 
 ### - Import the libraries:
